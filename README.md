@@ -27,3 +27,5 @@ CD & version control:
 Linux & unix:
 - Solaris internals
 
+Management:
+- Team Geek [Brian W. Fitzpatrick]
